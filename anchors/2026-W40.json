@@ -1,0 +1,13 @@
+{
+  "anchor_date": "2026-09-29T09:27:26Z",
+  "chain_state": {
+    "chain_hash_sha256": "082aee3763ff722d5f5b8103fc3b21424eb08acfccce12fd00c47f0a60b887b3",
+    "last_index": 18,
+    "last_signature": "xBym7zo/gauEO55wRXJetluuGsbXoZ3FqsVVBFfTzig="
+  },
+  "ed25519_pubkey_fingerprint": "SHA256:v+d/tGMGaDiPYI/Vh1Mr7wGjYbvfT0YouH5Kse49Vbw",
+  "iso_week": "2026-W40",
+  "namespace": "anchor-8b872abf-v1",
+  "signature": "9HAi0KEo3KTZgF/qcYi+dSZvY4SisWAMgUV7Gms46pSvTDe3sHJjknKO90EwvzdjenTwTdMqsi67CIO6wY89Aw==",
+  "version": 1
+}
